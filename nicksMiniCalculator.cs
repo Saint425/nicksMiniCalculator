@@ -21,7 +21,7 @@ namespace nicksMiniCalculator
                 calcFunction(x, y, ops); // Calls for the second function
 
                 Console.ReadLine();
-                Console.Write("Would You Like To Continue (y/n)?");
+                Console.Write("Would You Like To Continue (y or n)?");
                 string yesorno = Console.ReadLine();
 
                 if (yesorno == "y")
