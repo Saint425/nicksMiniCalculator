@@ -42,7 +42,6 @@ namespace nicksMiniCalculator
 
         }
 
-
         static int calcFunction(int xparum, int yparum, string optparum) // This does the calculations for us
         {
             int x = xparum;
